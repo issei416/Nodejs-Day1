@@ -1,0 +1,10 @@
+Render deploy URL : https://nodejs-day1-5arl.onrender.com
+
+Endpoints:
+
+write file : "/writefile"
+read files in folder: "/readallfiles"
+
+Github repo URL: https://github.com/issei416/Nodejs-Day1.git
+
+Last commit hashID : fe510f6f30607631d41a4ac9b25bfdd7b0401c30
